@@ -7,7 +7,6 @@
 (Java | Spring Boot | Angular | Typescript | Javascript | HTML | CSS ) 🚀
 
 - 👩‍💻 Full Stack developer @[FCamara](https://fcamara.com/)
-- 🏆 Microsft MVP
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
 
